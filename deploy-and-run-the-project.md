@@ -102,7 +102,7 @@ tar.gzアーカイブを解凍します。
 
 ![](assets_deploy-and-run-the-project/2024-04-10-17-38-09-image.png)
 
-解凍したフォルダーに入り、webappフォルダー配下のファイルをすべて削除します。
+解凍したフォルダーに入り、webappsフォルダー配下のファイルをすべて削除します。
 
 ![](assets_deploy-and-run-the-project/2024-04-10-17-39-41-image.png)
 
