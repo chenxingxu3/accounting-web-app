@@ -40,8 +40,6 @@ sudo update-alternatives --config java
 
 数値を入力して、デフォルトのバージョンとして設定する Java バージョンを選択します。
 
-
-
 ### 2. H2 Databaseをインストールする
 
 H2 Databaseの圧縮パッケージは以下のgithubにあります。
@@ -92,8 +90,6 @@ http://localhost:8082/
 
 ![](assets_deploy-and-run-the-project/2024-04-10-17-33-54-image.png)
 
-
-
 ### 3. Tomcat9をインストールする
 
 Tomcat 9 をダウンロードします。
@@ -114,12 +110,6 @@ tar.gzアーカイブを解凍します。
 
 ![](assets_deploy-and-run-the-project/2024-04-10-17-40-41-image.png)
 
-
-
-
-
-
-
 ### 4. プロジェクトを実行する
 
 パッケージ化された war パッケージを GitHub からダウンロードします。
@@ -128,7 +118,7 @@ tar.gzアーカイブを解凍します。
 
 ![](assets_deploy-and-run-the-project/2024-04-10-16-51-12-image.png)
 
-kaikei.war ファイルを webapp フォルダーにコピーします。
+kaikei.war ファイルを webapps フォルダーにコピーします。
 
 ![](assets_deploy-and-run-the-project/2024-04-10-17-42-30-image.png)
 
@@ -163,5 +153,3 @@ sudo ./startup.sh
 http://localhost:8080/kaikei/userlogin
 
 ![](assets_deploy-and-run-the-project/2024-04-10-18-00-44-image.png)
-
-
