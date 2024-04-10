@@ -1,5 +1,9 @@
 # 会計WEBアプリ
 
+## システムの導入および運用方法
+
+[deploy-and-run-the-project.md](./deploy-and-run-the-project.md) 
+
 ## アプリの目的
 
 - 個人または小規模事業主のための財務管理を簡素化
